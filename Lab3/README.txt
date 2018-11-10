@@ -3,7 +3,7 @@ Lab 3: Looping in MIPS
 CMPE 012 Fall 2018
 
 Shen, Jinghao
-jshen
+jshen30
 ----------------------------
 The text of your prompt (“Please input a positive integer: ”) 
 and output strings (“Flux” and “Bunny”) are stored in the 
