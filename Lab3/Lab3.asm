@@ -49,7 +49,7 @@ main:
  		
  		#if block
  			and $t7, $t5, $t6    #check if it can be divided by both 5 and 7
- 			beqz $t7, flx
+ 			beqz $t7, flx 
  			li $v0, 4
  			la $a0, fluxBunny
  			syscall
